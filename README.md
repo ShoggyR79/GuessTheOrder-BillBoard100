@@ -1,6 +1,3 @@
-# Change++ 2021 Coding Challenge due 9/24 at 11:59 PM
-Submitted by: Du Duong
-
 
 # BillBoard 100 Guess the Order (ReactJS + NodeJS)
 
@@ -17,6 +14,8 @@ There are two folders, `API` and `Front-End`.
 
 **NOTE: THESE MUST BE DONE IN ORDER**
 
+## Possible Areas for growth
+I think that there was several thing I could've done to improve this project. Design wise, I think it would've been great if I could include embedded youtube videos into the selections themselves. Furthermore, I would also want to deploy the code so that users who want to test out the function do not have to download and manually install and run each seperate functions
 
 ## Reflection
 I throughly enjoyed working on the project, since it allowed me to further expressed what I have learnt over the summer. I think the end product is significantly better than what I had designed originally (using
